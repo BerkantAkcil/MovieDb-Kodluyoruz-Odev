@@ -1,0 +1,24 @@
+*{
+    background-color:#454545;
+    color:#242424;
+}
+
+a{
+    color:#242424 !important;
+}
+
+a:hover{
+    text-decoration:none !important;
+}
+
+.list-group-flush{
+    background-color: #2424249a !important;
+    list-style: none;
+}
+
+ul{
+    list-style-type: none;
+}
+span{
+    font-weight:700;
+}
